@@ -1,0 +1,14 @@
+ [
+    {
+        "id" : 1,
+        "title" : "What is express JS used for?",
+        "desc" : "Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. It's a layer built on the top of the Node js that helps manage servers and routes.",
+        "date" : "Sept 1, 2022"
+     },
+    {
+        "id" : 2,
+        "title" : "Do you know What is NodeJS?",
+        "desc" : "Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It's used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.",
+        "date" : "Sept 2, 2022"
+     }
+ ]

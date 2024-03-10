@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "photo" : "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+        "id" : 2,
+        "photo" : "https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png"
+    },
+    {
+        "id" : 3,
+        "photo" : "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
+    },
+    {
+        "id" : 3,
+        "photo" : "https://www.ictdemy.com/images/5728/mdb.png"
+    },
+    {
+        "id" : 3,
+        "photo" : "https://pngimg.com/uploads/mysql/mysql_PNG22.png"
+    },
+    {
+        "id" : 3,
+        "photo" : "https://cdn.iconscout.com/icon/free/png-256/python-2752092-2284909.png"
+    }
+]
