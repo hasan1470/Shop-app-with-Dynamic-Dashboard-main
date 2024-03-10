@@ -19,4 +19,3 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 1. [***facebook***](https://facebook.com/abdullah.hasan.49455/)
 2. [***Linkedin***](https://www.linkedin.com/in/devhasan)
-3. <a href="https://github.com/hasan1470/" target="_blank">***Github***</a>
